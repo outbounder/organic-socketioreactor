@@ -1,0 +1,20 @@
+{
+  "name": "organic-socketioreactor",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node ./tests/"
+  },
+  "dependencies": {
+    "organic": "0.1.1",
+    "organic-alchemy": "0.0.1",
+    "glob": "3.1.14",
+    "underscore": "1.4.4"
+  },
+  "devDependencies": {
+    "jasmine-node": "latest",
+    "request": "latest",
+    "shelljs": "latest"
+  },
+  "license": "MIT"
+}
